@@ -8,10 +8,6 @@
 
 > A modern, intelligent police management system built with React, TypeScript, and Supabase. Streamline FIR management, evidence handling, and police operations with a beautiful, responsive interface.
 
-## 📸 Screenshots
-
-*Add screenshots of your application here to showcase the UI*
-
 ## ✨ Features
 
 - 📝 **FIR Management** - Create, edit, and manage First Information Reports
@@ -596,13 +592,6 @@ See also the list of [contributors](https://github.com/Priyanshu07190/SmartCop/c
 - [React](https://reactjs.org) team for the incredible library
 - [Vite](https://vitejs.dev) for the lightning-fast build tool
 - Government of India's [Bhashini](https://bhashini.gov.in) for translation services
-
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/Priyanshu07190/SmartCop?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Priyanshu07190/SmartCop?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Priyanshu07190/SmartCop)
-![GitHub license](https://img.shields.io/github/license/Priyanshu07190/SmartCop)
 
 ---
 
